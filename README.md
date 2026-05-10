@@ -2,6 +2,9 @@
 # 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Science+Enthusiast;Full+Stack+Developer;AI+%26+IoT+Learner;Always+Building+Something+New&center=true&width=500&height=50)](https://git.io/typing-svg)
 
+
+![](https://komarev.com/ghpvc/?username=sujalkhamar&style=for-the-badge)
+
 I am a passionate tech enthusiast with a strong interest in Data Science And  Analysis and software development.<br>Skilled in C, Java, and Python, I enjoy solving real-world problems through logical and efficient coding.<br>I also have experience in Web Development and am currently learning Mobile Application Development to expand my skill set.<br>I believe in continuous learning, practical implementation, and growing step by step in the tech industry.
        
 
