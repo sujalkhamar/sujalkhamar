@@ -1,6 +1,9 @@
-# 💫 About Me:
-I am a passionate tech enthusiast with a strong interest in Data Science And  Analysis and software development.<br>Skilled in C, Java, and Python, I enjoy solving real-world problems through logical and efficient coding.<br>I also have experience in Web Development and am currently learning Mobile Application Development to expand my skill set.<br>I believe in continuous learning, practical implementation, and growing step by step in the tech industry.
 
+# 💫 About Me:
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+Science+Enthusiast;Full+Stack+Developer;AI+%26+IoT+Learner;Always+Building+Something+New&center=true&width=500&height=50)](https://git.io/typing-svg)
+
+I am a passionate tech enthusiast with a strong interest in Data Science And  Analysis and software development.<br>Skilled in C, Java, and Python, I enjoy solving real-world problems through logical and efficient coding.<br>I also have experience in Web Development and am currently learning Mobile Application Development to expand my skill set.<br>I believe in continuous learning, practical implementation, and growing step by step in the tech industry.
+       
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sujalkhamar)
@@ -13,6 +16,11 @@ I am a passionate tech enthusiast with a strong interest in Data Science And  An
 ![](https://github-readme-stats.shion.dev/api?username=sujalkhamar&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=sujalkhamar&theme=github_dark_dimmed&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sujalkhamar&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+## 📈 Contribution Graph
+[![Sujal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sujalkhamar&theme=github-dark)](https://github.com/sujalkhamar)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
